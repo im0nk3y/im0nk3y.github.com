@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello Fu*king World!
-tagline: monkey test
+title: Hello Fu*king World
+tagline: test
 ---
 {% include JB/setup %}
 
